@@ -1083,6 +1083,29 @@
               <bucket>&quot;Corporate&quot;</bucket>
             </map>
           </encoding>
+          <encoding attr='color' field='[none:AdhocCluster:1:ok]' type='palette'>
+            <map to='#59a14f'>
+              <bucket>5</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>4</bucket>
+            </map>
+            <map to='#8dbfa8'>
+              <bucket>3</bucket>
+            </map>
+            <map to='#98d9e4'>
+              <bucket>1</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>7</bucket>
+            </map>
+            <map to='#edc948'>
+              <bucket>6</bucket>
+            </map>
+            <map to='#fcc66d'>
+              <bucket>2</bucket>
+            </map>
+          </encoding>
           <encoding attr='shape' field='[usr:MoMGrowthKPI (copy):ok]' type='shape'>
             <map to='Arrows/4-1.png'>
               <bucket>0</bucket>
@@ -1162,29 +1185,6 @@
             </map>
             <map to='#f28e2b'>
               <bucket>&quot;[federated.08whhsn1br31kc1a6so61051tb5e].[sum:Profit:qk]:1&quot;</bucket>
-            </map>
-          </encoding>
-          <encoding attr='color' field='[none:AdhocCluster:1:ok]' type='palette'>
-            <map to='#59a14f'>
-              <bucket>5</bucket>
-            </map>
-            <map to='#76b7b2'>
-              <bucket>4</bucket>
-            </map>
-            <map to='#8dbfa8'>
-              <bucket>3</bucket>
-            </map>
-            <map to='#98d9e4'>
-              <bucket>1</bucket>
-            </map>
-            <map to='#b07aa1'>
-              <bucket>7</bucket>
-            </map>
-            <map to='#edc948'>
-              <bucket>6</bucket>
-            </map>
-            <map to='#fcc66d'>
-              <bucket>2</bucket>
             </map>
           </encoding>
         </style-rule>
